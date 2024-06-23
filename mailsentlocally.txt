@@ -1,0 +1,29 @@
+
+// var transporter = nodemailer.createTransport({
+    //     service: 'gmail',
+    //     auth: {
+    //         user: 'samadali0125@gmail.com',
+    //         pass: 'gdap qhrl ujuq wpjx'
+    //     }
+    // });
+
+
+    // var mailOptions = {
+    //     from: 'samadali0125@gmail.com',
+    //     to: req.body.to,
+    //     subject: req.body.subject,
+    //     html: `
+    //         <h1 style="color:red; font-size: 20px;">You are hired!</h1>
+    //         <p>${req.body.message}</p>
+    //         <p>Your package would be 12LPA as a MERN Developer.</p>
+    //     `
+    // }
+
+
+
+     // transporter.sendMail(mailOptions, function(error, info) {
+    //     if (error) {
+    //         return res.send(error)
+    //     }
+    //     res.send("Mail sent Successfully!");
+    // })
